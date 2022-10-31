@@ -34,9 +34,9 @@
 <!--     <a href="https://aws.amazon.com/" target="_blank" title ="AWS"> <img
             src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png"
             alt="aws" width="40" height="40" /> </a> -->
-    <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
+   <!-- <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a>
+            alt="bootstrap" width="40" height="40" /> </a> -->
 <!--     <a href="https://bootstrapstudio.io/" target="_blank" title ="bootstrap studio"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bootstrap_Studio_Logo.png/768px-Bootstrap_Studio_Logo.png"
             alt="bootstrap studio" width="40" height="40" /> </a> -->
@@ -46,9 +46,15 @@
 <!--     <a href="https://www.w3schools.com/cpp/" target="_blank" title ="C++"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="40" height="40" /> </a> -->
+            <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" title ="CSS">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a>
+            <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="40" height="40" /> </a> 
 <!--     <a href="https://ejs.co/" target="_blank" title ="EJS"> <img
             src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="Ejs" width="40"
             height="40" /> </a> -->
@@ -60,9 +66,9 @@
 <!--     <a href="https://heroku.com" target="_blank" title ="heroku"> 
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
             alt="heroku" width="40" height="40" /> </a> -->
-    <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
+  <!--  <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>
+            alt="html5" width="40" height="40" /> </a> -->
 <!--     <a href="https://ionicframework.com/" target="_blank" title ="Ionic"> <img
             src="https://cdn-images-1.medium.com/max/1000/1*ZU1eWct801yP-QpUJOaI6Q.png"
             alt="ionic" width="40" height="40" /> </a> -->
