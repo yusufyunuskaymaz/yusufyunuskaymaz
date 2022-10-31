@@ -69,7 +69,6 @@
 <!--     <a href="https://www.java.com/en/" target="_blank" title ="java"> <img
             src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"
             alt="java" width="40" height="40" /> </a> -->
-	  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
