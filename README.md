@@ -128,15 +128,6 @@
 </div>
 
 
- <div align="center">
-  <a href="#">
-    <h2>🏆 Github Profile Trophy 🏆</h2>    
-        <img width=1000
-      src="https://github-profile-trophy.vercel.app/?username=yaserdemet&column=8&theme=onedark&no-frame=true&margin-w=15" />    
-  </a>
-</div> -->
-
-![snake gif](https://github.com/yaserdemet/yaserdemet/blob/output/github-contribution-grid-snake.gif)
  
 
 
