@@ -160,6 +160,6 @@
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yaserdemet}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yusufyunuskaymaz}/count.svg" /></p> 
 <br>
 </div>
