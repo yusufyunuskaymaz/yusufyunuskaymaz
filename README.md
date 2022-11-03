@@ -114,16 +114,16 @@
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yaserdemet&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaserdemet&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaserdemet&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=yusufyunuskaymaz&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufyunuskaymaz&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyunuskaymaz&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 
 </div>
 <br>
 <div align="center">
   <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=yaserdemet&theme=react-dark" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=yusufyunuskaymaz&theme=react-dark" />
   </a>
 </div>
 
