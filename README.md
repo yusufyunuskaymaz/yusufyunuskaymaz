@@ -128,7 +128,7 @@
 </div>
 
 
-<!-- <div align="center">
+ <div align="center">
   <a href="#">
     <h2>🏆 Github Profile Trophy 🏆</h2>    
         <img width=1000
@@ -136,8 +136,8 @@
   </a>
 </div> -->
 
-<!-- ![snake gif](https://github.com/yaserdemet/yaserdemet/blob/output/github-contribution-grid-snake.gif)
- -->
+![snake gif](https://github.com/yaserdemet/yaserdemet/blob/output/github-contribution-grid-snake.gif)
+ 
 
 
 <div align="center">
