@@ -150,8 +150,8 @@
 <h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
 
 <p align="center">
-	<a href="https://github.com/yaserdemet"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/yaser-demet-42731421b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://github.com/yusufyunuskaymaz"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/yusuf-kaymaz-6554b9247/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	
 </p>
 
