@@ -3,7 +3,7 @@
 <p><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64" align="center"><b>Connect with me:</b></p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-kaymaz-6554b9247/) 
-<a href="https://yaserdemet.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=yaserdemet" alt="visitor counter"  height="28.5"/>
+ <img src="https://komarev.com/ghpvc/?username=yaserdemet" alt="visitor counter"  height="28.5"/>
 </p>
 
 
